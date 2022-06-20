@@ -1,2 +1,2 @@
 # BasicWindow
-Codigo para janela BasicWindow em C++
+Codigo para janela da classe BasicWindow em C++
